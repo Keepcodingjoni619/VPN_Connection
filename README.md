@@ -36,3 +36,5 @@
   <li>VM (no vpn): 20.77.67.219 London</li>
   <li>VM (w / vpn): 37.19.205.193 New York</li>
 </ol>
+
+<h2>VPN is working based on the Netflix content which it think we are in Japan</h2>
