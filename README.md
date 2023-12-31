@@ -15,3 +15,5 @@
 </ol>
 
 <h2>Create A Virtual Machine through Azure</h2>
+
+![06](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/1bc7eca7-7514-4c94-82d8-64e482d1dc95)
