@@ -7,6 +7,6 @@
 ![VPN_02](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/96e89afc-6699-4981-82c7-e6c3d3a42d9a)
 
 <h5>VPN Setup</h5>
-<ul>
-  <ol>Install Azure</ol>
-</ul>
+<ol>
+  <li>Install Azure</li>
+</ol>
