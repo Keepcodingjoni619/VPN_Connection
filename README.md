@@ -9,6 +9,7 @@
 <h5>VPN Setup</h5>
 <ol>
   <li>Install Azure</li>
+  <li>Create virtual machine inside Azure</li>
   <li>Use Proton VPN through Azure</li>
   <li>Establish connection remotely</li>
 </ol>
