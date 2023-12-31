@@ -23,3 +23,6 @@
 <p>Connect the VM public IP</p>
 
 ![vpn03](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/084a4d25-ea07-44a9-bf5d-05ec03b30b65)
+
+<h2>Download Proton VPN and establish connection</h2>
+
