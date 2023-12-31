@@ -38,3 +38,6 @@
 </ol>
 
 <h2>VPN is working based on the Netflix content which it think we are in Japan</h2>
+
+![07](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/437b2455-68e8-4ebe-a9a3-97b7002f8cc1)
+
