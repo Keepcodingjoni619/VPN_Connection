@@ -13,3 +13,5 @@
   <li>Use Proton VPN through Azure</li>
   <li>Establish connection remotely</li>
 </ol>
+
+<h2>Create A Virtual Machine through Azure</h2>
