@@ -4,3 +4,4 @@
 <p>This is done usually from your home</p>
 <p>VPN from home ---------------- VPN Server allowing to send traffic through a private network</p>
 
+![VPN_02](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/96e89afc-6699-4981-82c7-e6c3d3a42d9a)
