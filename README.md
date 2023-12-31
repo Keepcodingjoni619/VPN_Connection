@@ -31,3 +31,8 @@
 <h2>Check to see if VPN is private</h2>
 
 ![vpn05](https://github.com/Keepcodingjoni619/VPN_Connection/assets/82996237/7679bcd5-c9db-49e3-95db-e45c4588e57e)
+
+<ol>
+  <li>WM (no vpn): 20.77.67.219 London</li>
+  <li>WM (w / vpn): 37.19.205.193 New York</li>
+</ol>
